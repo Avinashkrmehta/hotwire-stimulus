@@ -1,24 +1,2 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Hotwire Demo 
+Hotwire is a set of technologies introduced by Basecamp (the company behind Ruby on Rails) to enable a more dynamic and interactive user experience in web applications. It is designed to enhance the real-time interactivity of web applications without relying heavily on JavaScript frameworks like React, Angular, or Vue.js.
